@@ -1,5 +1,5 @@
 
-## Modern Full Stack ECommerce Application with Stripe & Sanity
+## Full Stack ECommerce Application
 
 full-stack eCommerce React application with Stripe integration, built to help web developers learn how to build an eCommerce website using React. The application includes advanced React best practices such as folder and file structure, hooks, and refs, as well as advanced state management using the React Context API
 
